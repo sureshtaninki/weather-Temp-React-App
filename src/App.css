@@ -1,0 +1,83 @@
+*{
+  border:0px;
+
+}
+
+.cold{
+  background-image: url("https://images.designtrends.com/wp-content/uploads/2016/02/28115049/Cold-Winter-Snow-Desktop-Background.jpg");
+  background-size: cover;
+  height:100vh;
+}
+
+.warm{
+  background-image: url("https://wallpaperaccess.com/full/1251841.jpg");
+  background-size: cover;
+  height:100vh;
+}
+.conta{
+  margin-top: 28vh;
+  text-align: center;
+
+}
+
+
+
+.degree-container{
+  height:20vh;
+  width:30vh;
+  background-color: aquamarine;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 20vh;
+  margin-left:40vh;
+
+}
+.degree{
+  font-weight: bold;
+  font-size: 50px;
+  color:brown;
+}
+
+.climate{
+  color:green;
+  font-weight: bold;
+
+
+}
+.countryname{
+
+  color:rgb(255, 111, 2);
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+
+
+}
+.date{
+  color:black;
+  font-family: "roboto";
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+
+}
+.search-container{
+
+  display: flex;
+  flex-direction:row;
+  justify-content:center;
+  padding-top:20px;
+
+}
+.search{
+  border-radius:50px ;
+  border-color: black;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-right:10px;
+  padding-left:10px;
+  color:black;
+  background-color:rgb(255, 255, 255);
+
+}
+
